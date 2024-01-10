@@ -9,3 +9,5 @@ Course covers the following sections
 5. Running Spark on Cluster
 6. Machine Learning with SparkML
 7. Spark Streaming, Structured Streaming, and GraphX
+
+Link for the course - https://www.udemy.com/course/taming-big-data-with-apache-spark-hands-on/
